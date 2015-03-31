@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    allocation_tracer (0.4.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  allocation_tracer
